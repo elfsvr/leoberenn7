@@ -1,2 +1,3 @@
 # leoberenn7
-English of Time
+Sesli söylediklerinizi Türkçe'den İngilizce'ye çevirecek bir websitesi. 
+
